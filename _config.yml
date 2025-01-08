@@ -10,17 +10,17 @@
 ############################
 
 # Name of website
-title: My website
+title: Michael Papageorgiou | Business Analytics & NLP
 
 # Your name to show in the footer
-author: Some Person
+author: Michael Papageorgiou
 
 ###############################################
 # --- List of links in the navigation bar --- #
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
+  About Me: "I am Michael Papageorgiou, an aspiring business analytics professional with a passion for leveraging data and advanced technologies to address real-world challenges. With expertise in natural language processing (NLP), sentiment analysis, and prompt engineering, I have worked extensively with large language models (LLMs) to extract insights and drive innovation. I hold a Master's in Business Analytics, excelling in courses like Revenue Management, Strategic Analytics, and Applied Deep Learning, and conducted research on the applications of LLMs in finance. Having German and Greek heritage and having lived in the UK, I bring a unique perspective shaped by diverse cultural backgrounds and experiences. Skilled in Python, R, and Tableau, I specialize in crafting data-driven narratives and delivering impactful results. My hands-on experience spans procurement, fintech, and Airbnb hosting, complemented by Bloomberg Terminal and Amplify Me trading simulation training, enabling me to create value in dynamic business environments."
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
@@ -32,14 +32,14 @@ navbar-links:
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/assets/img/avatar-icon.png"
+avatar: "C:\Users\mikep\OneDrive\Εικόνες\MIchael Professional Picture.jpg"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: true
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
-#title-img: /path/to/image
+#title-img: "C:/Users/mikep/OneDrive/Εικόνες/MIchael Professional Picture.jpg"
 
 
 #####################################
@@ -50,38 +50,13 @@ round-avatar: true
 # You can change the order that they show up on the page by changing the order here.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
+  email: "mikepapageorgiou13@gmail.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: "@daattali"
-  whatsapp: 15551212
-#  medium: yourname
-#  reddit: yourname or r/yoursubreddit
-#  linkedin: daattali
-#  xing: yourname
-#  stackoverflow: "3943160/daattali"
-#  snapchat: deanat78
-#  instagram: deanat78
-#  spotify: yourname
-#  telephone: +14159998888
-#  steam: deanat78
-#  twitch: yourname
-#  yelp: yourname
-#  telegram: yourname
-#  calendly: yourname
-#  mastodon: instance.url/@username
-#  bluesky: yourname
-#  ORCID: your ORCID ID
-#  google-scholar: your google scholar
-#  discord: "invite_code" or "users/userid" or "invite/invite_code"
-#  kaggle: yourname
-#  hackerrank: yourname
-#  gitlab: yourname
-#  itchio: yourname
-#  untappd: yourname
+
+  github: MichaelPap13
+  
+linkedin: https://www.linkedin.com/in/michael-papageorgiou/
+ rss: true
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml

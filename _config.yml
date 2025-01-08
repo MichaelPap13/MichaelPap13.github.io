@@ -15,10 +15,6 @@ title-img: "/assets/img/MIchael Professional Picture.jpg"
 
 round-avatar: true
 
-# If you want to have an image logo in the top-left corner instead of having the title of the website,
-# then specify the following parameter
-title-img: "/assets/img/MIchael Professional Picture.jpg"
-
 
 #####################################
 # --- Footer social media links --- #
@@ -32,8 +28,9 @@ social-network-links:
   github: MichaelPap13
   linkedin: https://www.linkedin.com/in/michael-papageorgiou/
 
-  rss: true  # remove this line if you don't want to show an RSS link at the bottom
+rss: true  
 
+keywords: "Michael Papageorgiou, business analytics, NLP, data science, Python"
 
 
 # If you want your website to generate an RSS feed, provide a description
@@ -54,7 +51,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "Michael Papageorgiou.com"
+url-pretty: "MichaelPapageorgiou.com"
 
 # Add the website title to the title of every page
 title-on-all-pages: true

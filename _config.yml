@@ -20,7 +20,10 @@ author: Michael Papageorgiou
 ###############################################
 
 navbar-links:
-  About Me: "I am Michael Papageorgiou, an aspiring business analytics professional with a passion for leveraging data and advanced technologies to address real-world challenges. With expertise in natural language processing (NLP), sentiment analysis, and prompt engineering, I have worked extensively with large language models (LLMs) to extract insights and drive innovation. I hold a Master's in Business Analytics, excelling in courses like Revenue Management, Strategic Analytics, and Applied Deep Learning, and conducted research on the applications of LLMs in finance. Having German and Greek heritage and having lived in the UK, I bring a unique perspective shaped by diverse cultural backgrounds and experiences. Skilled in Python, R, and Tableau, I specialize in crafting data-driven narratives and delivering impactful results. My hands-on experience spans procurement, fintech, and Airbnb hosting, complemented by Bloomberg Terminal and Amplify Me trading simulation training, enabling me to create value in dynamic business environments."
+  About Me: "I am Michael Papageorgiou, an aspiring business analytics professional"
+  navbar-links:
+  About Me: "/about.html"
+
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
@@ -29,6 +32,7 @@ navbar-links:
 ################
 # --- Logo --- #
 ################
+title-img: "/assets/img/MIchael Professional Picture.jpg"
 
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'

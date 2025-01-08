@@ -52,16 +52,17 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "mikepapageorgiou13@gmail.com"
+  github: MichaelPap13
+  linkedin: https://www.linkedin.com/in/michael-papageorgiou/
+
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
 
-  github: MichaelPap13
-  
-linkedin: https://www.linkedin.com/in/michael-papageorgiou/
- rss: true
+
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
-rss-description: This website is a virtual proof that I'm awesome
+rss-description: "A showcase of my expertise in business analytics and NLP."
+
 
 ###########################
 # --- General options --- #
@@ -114,8 +115,8 @@ page-col: "#FFFFFF"
 text-col: "#404040"
 link-col: "#008AFF"
 hover-col: "#0085A1"
-navbar-col: "#EAEAEA"
-navbar-text-col: "#404040"
+navbar-col: "#343a40"
+navbar-text-col: "#ffffff"
 navbar-border-col: "#DDDDDD"
 footer-col: "#EAEAEA"
 footer-text-col: "#777777"
